@@ -1,3 +1,5 @@
+OpenArk是一款Windows平台上的开源Ark工具
+
 # OpenArk ![image](doc/resources/logo.png)
 
 ![License](https://img.shields.io/badge/License-LGPL-green.svg)
